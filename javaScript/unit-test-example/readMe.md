@@ -18,6 +18,7 @@ The test file contains hard coded Examples that demonstrate the required functio
 In order to take a TDD approach to designing and developing the functionality of Simple Calc, we can write a set of tests in a parallel file then implement the code to make them pass. If functionality is changed, the tests should break.
 
 ##Improvements##
+Here's some improvements that could be made to this simple example:
 1. Get the results to print to the page with document.write
 2. Store the results of each test and do a comparison against expected results (e.g. BDD type Expectations)
 3. Add in 1 or more negative test cases
